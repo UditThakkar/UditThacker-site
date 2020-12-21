@@ -1,0 +1,1 @@
+This is my personal portfolio. I'm learning right now.
