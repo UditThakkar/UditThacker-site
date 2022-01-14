@@ -8,3 +8,5 @@ For now. I know:
 1. C++
 1. C
 2. Python basics
+
+Updating readme
